@@ -1,17 +1,17 @@
 {
     "environments": {
         "dev": {
-            "profile": "E2DemoWest",
+            "profile": "e2-demo-west",
             "workspace_dir": "/Shared/ggw_e2e_mlops/dev/dbx/e2e_mlops_dev",
             "artifact_location": "dbfs:/Shared/ggw_e2e_mlops/dev/dbx/projects/e2e_mlops_dbx_dev"
         },
         "staging": {
-            "profile": "E2DemoWest",
+            "profile": "e2-demo-west",
             "workspace_dir": "/Shared/ggw_e2e_mlops/staging/dbx/e2e_mlops_staging",
             "artifact_location": "dbfs:/Shared/ggw_e2e_mlops/staging/dbx/projects/e2e_mlops_dbx_staging"
         },
         "prod": {
-            "profile": "E2DemoWest",
+            "profile": "e2-demo-west",
             "workspace_dir": "/Shared/ggw_e2e_mlops/prod/dbx/e2e_mlops_prod",
             "artifact_location": "dbfs:/Shared/ggw_e2e_mlops/prod/dbx/projects/e2e_mlops_dbx_prod"
         }
