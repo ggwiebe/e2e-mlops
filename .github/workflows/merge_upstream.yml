@@ -5,11 +5,11 @@ on:
       upstream:
         description: 'Upstream repository owner/name. Eg. exions/merge-upstream'
         required: true
-        default: 'owner/name'       # set the upstream repo
-      upstream:
+        default: 'niall-turbitt/e2e-mlops'       # set the upstream repo
+      upstream-branch:
         description: 'Upstream branch to merge from. Eg. master'
         required: true
-        default: 'master'           # set the upstream branch to merge from
+        default: 'main'           # set the upstream branch to merge from
       branch:
         description: 'Branch to merge to'
         required: true
