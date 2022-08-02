@@ -1,3 +1,5 @@
+## After forking upstream project, follow this instructions.
+
 ## git clone project into desire code folder
 ```git clone https://github.com/ggwiebe/e2e-mlops.git```
 
