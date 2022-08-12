@@ -6,7 +6,6 @@ custom:
     node_type_id: 'i3.xlarge'
     driver_node_type_id: 'i3.xlarge'
     num_workers: 1
-    # Auto AZ
     policy_id: 'E060384AFC00043E'
 
     # To reduce start up time for each job, it is advisable to use a cluster pool. To do so involves supplying the following
